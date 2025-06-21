@@ -3,8 +3,8 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/mern-amazona.git
-$ cd mern-amazona
+$ [git clone https://github.Anup8178/ShopCart
+$ cd ShopCart
 ```
 
 ### 2. Create .env File
@@ -15,7 +15,7 @@ $ cd mern-amazona
 
 - Local MongoDB
   - Install it from [here](https://www.mongodb.com/try/download/community)
-  - In .env file update MONGODB_URI=mongodb://localhost/amazona
+  - In .env file update MONGODB_URI=mongodb://localhost/ShopCart
 - OR Atlas Cloud MongoDB
   - Create database at [https://cloud.mongodb.com](https://cloud.mongodb.com)
   - In .env file update MONGODB_URI=mongodb+srv://your-db-connection
